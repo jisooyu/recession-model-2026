@@ -1,0 +1,8 @@
+dash
+plotly
+math
+time
+pandas
+numpy
+pandas_datareader
+requests
